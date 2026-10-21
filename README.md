@@ -92,9 +92,9 @@ print(yo.mision_actual())
 <br/><br/>
 
 <!-- Calendario de contribuciones -->
-<a href="https://github.com/jheferson12">
-  <img width="85%" src="https://ghchart.rshah.org/00F0FF/jheferson12" alt="Calendario de contribuciones" />
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jheferson12/jheferson12/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 <br/><br/>
 
