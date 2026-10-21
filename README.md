@@ -24,7 +24,7 @@
 
 ---
 
-<!-- 4. TECH STACK INTERACTIVO (CON EFECTO HOVER OSCURO) -->
+<!-- 4. TECH STACK INTERACTIVO -->
 <h3 align="center">🛠️ Stack Tecnológico</h3>
 
 <p align="center">
@@ -33,40 +33,23 @@
 
 ---
 
-<!-- 5. TROFEOS ANIMADOS / FLOTANTES -->
+<!-- 5. TROFEOS ANIMADOS -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jheferson12&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" width="100%" />
 </p>
 
 ---
 
-<!-- 6. LA SERPIENTE COME-CONTRIBUCIONES (ANIMACIÓN CONSTANTE) -->
+<!-- 6. LA SERPIENTE COME-CONTRIBUCIONES -->
 <h3 align="center">🐍 Actividad en Movimiento</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jheferson12/jheferson12/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jheferson12/jheferson12/output/github-contribution-grid-snake.svg">
-    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/jheferson12/jheferson12/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/jheferson12/jheferson12/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<!-- 7. FOOTER CON CONTADOR DE VISITAS RETRO/CYBERPUNK -->
+---
+
+<!-- 7. FOOTER CON CONTADOR DE VISITAS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jheferson12&color=00f0ff&style=for-the-badge&label=VISITANTES+DEL+PERFIL" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=jheferson12&color=00f0ff&style=for-the-badge&label=VISITANTES" alt="visitor counter" />
 </p>
-
-<!--
-**jheferson12/jheferson12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
