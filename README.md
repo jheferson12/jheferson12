@@ -1,6 +1,6 @@
 <!-- 1. BANNER SUPERIOR ANIMADO CON NEÓN -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Jheferson%20Duvan&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Backend%20%26%20Cloud&descSize=16&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Jheferson%20Duvan&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20Backend%20and%20Cloud&descSize=16&descAlignY=62" width="100%"/>
 </p>
 
 <!-- 2. TEXTO EN VIVO ESCRIBIÉNDOSE Y BORRÁNDOSE EN BUCLE -->
