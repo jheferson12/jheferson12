@@ -33,9 +33,11 @@
 
 ---
 
-<!-- 5. TROFEOS ANIMADOS -->
+<!-- 5. LA SERPIENTE COME-CONTRIBUCIONES -->
+<h3 align="center">🐍 Actividad en Movimiento</h3>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jheferson12&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" width="100%" />
+  <img src="https://raw.githubusercontent.com/jheferson12/jheferson12/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -49,7 +51,7 @@
 
 ---
 
-<!-- 7. FOOTER CON CONTADOR DE VISITAS -->
+<!-- 6. FOOTER CON CONTADOR DE VISITAS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jheferson12&color=00f0ff&style=for-the-badge&label=VISITANTES" alt="visitor counter" />
 </p>
