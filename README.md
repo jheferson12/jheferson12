@@ -42,15 +42,6 @@
 
 ---
 
-<!-- 6. LA SERPIENTE COME-CONTRIBUCIONES -->
-<h3 align="center">🐍 Actividad en Movimiento</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jheferson12/jheferson12/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
 <!-- 6. FOOTER CON CONTADOR DE VISITAS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jheferson12&color=00f0ff&style=for-the-badge&label=VISITANTES" alt="visitor counter" />
