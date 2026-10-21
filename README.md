@@ -1,12 +1,11 @@
 <div align="center">
 
 <!-- ENCABEZADO ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:123B67,70:6C2BD9,100:00F0FF&height=240&section=header&text=JHEFERSON%20DUVAN&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Ingeniero%20de%20Sistemas%20y%20Telecomunicaciones%20%7C%20Backend%20%7C%20Frontend&descSize=16&descAlignY=60&animation=twinkling" alt="Encabezado animado" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:123B67,70:6C2BD9,100:00F0FF&height=240&section=header&text=JHEFERSON%20DUVAN%20VILLA&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Ingeniero%20de%20Sistemas%20y%20Telecomunicaciones%20%7C%20Backend%20%7C%20Frontend&descSize=16&descAlignY=60&animation=twinkling" alt="Encabezado animado" />
 
 <a href="https://github.com/jheferson12">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&height=55&lines=Bienvenido+a+mi+universo+digital+%F0%9F%8C%8C;Construyendo+y+aprendiendo+sistemas+backend+%E2%9A%A1;Python+%7C+C%23+%7C+.NET+%7C+Django;Docker+%7C+PostgreSQL+%7C+Automatizaci%C3%B3n;Siempre+aprendiendo.+Siempre+construyendo.+%F0%9F%9A%80" alt="Presentacion animada" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&height=55&lines=Bienvenido+a+mi+universo+digital+%F0%9F%8C%8C;Construyendo+sistemas+backend+escalables+%E2%9A%A1;Python+%7C+C%23+%7C+.NET+%7C+Django;HTML+%7C+CSS+%7C+JS+%7C+Docker+%7C+PostgreSQL;Ciberseguridad+%26+Automatizaci%C3%B3n+%F0%9F%94%92;Siempre+aprendiendo.+Siempre+construyendo.+%F0%9F%9A%80" alt="Presentacion animada" />
 </a>
-
 <br/>
 
 <a href="https://github.com/jheferson12?tab=repositories">
@@ -35,13 +34,13 @@ class IngenieroDeSistemas:
         self.rol = "Estudiante de Ingeniería de Sistemas"
         self.enfoque = [
             "Desarrollo Backend",
-            "Nube y DevOps",
+            "Desarrollo Frontend",
             "Ciberseguridad",
-            "Automatización"
+            "Automatizacion"            
         ]
-        self.lenguajes = ["Python", "C#", "SQL"]
+        self.lenguajes = ["Python","HTML","CSS","JAVASCRIPT", "C#", "SQL"]
         self.frameworks = ["Django", "ASP.NET Core MVC"]
-        self.infraestructura = ["Docker", "Linux", "PostgreSQL"]
+        self.infraestructura = ["Docker", "PostgreSQL"]
         self.mentalidad = "Aprender, construir, mejorar, repetir."
 
     def mision_actual(self):
@@ -54,7 +53,7 @@ print(yo.mision_actual())
 <div align="center">
 
 <img src="https://img.shields.io/badge/ENFOQUE-Desarrollo_Backend-00F0FF?style=for-the-badge&labelColor=050816" alt="Enfoque" />
-<img src="https://img.shields.io/badge/INTERES-Nube_%26_DevOps-7C3AED?style=for-the-badge&labelColor=050816" alt="Interes" />
+<img src="https://img.shields.io/badge/ENFOQUE-Desarrollo_Frontend-00F0FF?style=for-the-badge&labelColor=050816" alt="Enfoque" />
 <img src="https://img.shields.io/badge/MENTALIDAD-Aprendizaje_Continuo-22C55E?style=for-the-badge&labelColor=050816" alt="Mentalidad" />
 
 <br/><br/>
@@ -106,11 +105,9 @@ print(yo.mision_actual())
 
 <!-- Cambia el nombre del repo y la tecnologia si hace falta -->
 <a href="https://github.com/jheferson12/SistemasWeb">
-  <img src="https://img.shields.io/badge/📁_SistemasWeb-Aplicación_Web-00F0FF?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=050816" alt="Proyecto SistemasWeb" />
+<img src="https://img.shields.io/badge/📁_SistemasWeb-Aplicación_Web-00F0FF?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=050816" alt="Proyecto SistemasWeb" />
 </a>
-<a href="https://github.com/jheferson12/ProyectoConsultancy">
-  <img src="https://img.shields.io/badge/📁_ProyectoConsultancy-Consultoría-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" alt="Proyecto Consultancy" />
-</a>
+
 
 <br/><br/>
 
