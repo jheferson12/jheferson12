@@ -76,12 +76,25 @@ print(yo.mision_actual())
 <!-- 03 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&repeat=false&width=700&height=45&lines=03+%2F%2F+TELEMETR%C3%8DA+DE+GITHUB" alt="03 Telemetria de GitHub" />
 
-<a href="https://github.com/jheferson12">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jheferson12&show_icons=true&locale=es&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F0FF&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" alt="Estadisticas de GitHub" />
-</a>
-<a href="https://github.com/jheferson12">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheferson12&layout=compact&locale=es&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F0FF&text_color=FFFFFF&langs_count=8" alt="Lenguajes mas usados" />
-</a>
+<!-- 03 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&repeat=false&width=700&height=45&lines=03+%2F%2F+TELEMETR%C3%8DA+DE+GITHUB" alt="03 Telemetria de GitHub" />
+
+<p align="center">
+  <a href="https://github.com/jheferson12">
+    <img src="https://github-readme-stats.vercel.app/api?username=jheferson12&show_icons=true&locale=es&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F0FF&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" alt="Estadisticas de GitHub" />
+  </a>
+  <a href="https://github.com/jheferson12">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheferson12&layout=compact&locale=es&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F0FF&text_color=FFFFFF&langs_count=8" alt="Lenguajes mas usados" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="70%" src="https://streak-stats.demolab.com?user=jheferson12&locale=es&theme=tokyonight&hide_border=true&background=050816&ring=00F0FF&fire=7C3AED&currStreakLabel=00F0FF&currStreakNum=7C3AED&sideNums=00F0FF&sideLabels=FFFFFF&dates=94A3B8" alt="Racha de contribuciones" />
+  </a>
+</p>
 
 <br/>
 
