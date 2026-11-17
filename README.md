@@ -77,17 +77,6 @@ print(yo.mision_actual())
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&repeat=false&width=700&height=45&lines=03+%2F%2F+TELEMETR%C3%8DA+DE+GITHUB" alt="03 Telemetria de GitHub" />
 
 
-
-<br/>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="70%" src="https://streak-stats.demolab.com?user=jheferson12&locale=es&theme=tokyonight&hide_border=true&background=050816&ring=00F0FF&fire=7C3AED&currStreakLabel=00F0FF&currStreakNum=7C3AED&sideNums=00F0FF&sideLabels=FFFFFF&dates=94A3B8" alt="Racha de contribuciones" />
-  </a>
-</p>
-
-<br/>
-
 <a href="https://git.io/streak-stats">
   <img width="70%" src="https://streak-stats.demolab.com?user=jheferson12&locale=es&theme=tokyonight&hide_border=true&background=050816&ring=00F0FF&fire=7C3AED&currStreakLabel=00F0FF&currStreakNum=7C3AED&sideNums=00F0FF&sideLabels=FFFFFF&dates=94A3B8" alt="Racha de contribuciones" />
 </a>
